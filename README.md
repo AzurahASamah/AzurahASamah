@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Hi there! <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
 
-I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
+I am  __AZURAH__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
 
 ## 📚 Courses
 - 🆕 [Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)
